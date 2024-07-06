@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2, h3 {
+    text-align: center;
+    color: darkslateblue;
+}
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+body {
+    background-color: lightcyan;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+}
